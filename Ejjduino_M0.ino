@@ -39,7 +39,7 @@
 #define enablePenMotor 8
 #define penMicrostep 16 //MicrostepMode (default 16)
 
-#define servoPin 3 // Servo1 (pin3) Servo2 (pin4)Servo1 (pin3)
+#define servoPin 12 // Servo1 (pin3) Servo2 (pin4)Servo1 (pin3)
 
 // EXTRAFEATURES - UNCOMMENT TO USE THEM -------------------------------------------------------------------
 
